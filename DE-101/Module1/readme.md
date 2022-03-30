@@ -1,1 +1,2 @@
-# Домашнее задание для модуля 1 = "Sample - Superstore - Dashboard.xlsx".  
+# Домашнее задание для модуля 1  
+"Sample - Superstore - Dashboard.xlsx".  
