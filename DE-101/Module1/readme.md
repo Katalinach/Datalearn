@@ -7,8 +7,8 @@
 - Storage Layer - слой хранения данных
 - Business Layer - слой для доступа к данным бизнес пользователей  
 
-## - Дашборд - PDF-файл - "Sample - Superstore_Dashboard.pdf"  
-## - Дашборд - "Sample - Superstore_Dashboard.xls"  
+## - Дашборд в PDF - "Sample - Superstore_Dashboard.pdf"  
+## - Дашборд в Excel - "Sample - Superstore_Dashboard.xls"  
 ### - Analysis by:  
 - Total Sales
 - Total Profit
