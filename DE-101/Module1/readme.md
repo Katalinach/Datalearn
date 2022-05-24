@@ -9,7 +9,7 @@
 
 ## - Дашборд - PDF-файл - "Sample - Superstore_Dashboard.pdf"  
 ## - Дашборд - "Sample - Superstore_Dashboard.xls"  
-# - Analysis by:  
+### - Analysis by:  
 - Total Sales
 - Total Profit
 - Avg. Discount
@@ -25,7 +25,7 @@
 - Sales per state  
 - Sub-Category Analysis  
 
-# - Filters by:  
+### - Filters by:  
 - Years  
 - Months  
 - Ship Mode  
