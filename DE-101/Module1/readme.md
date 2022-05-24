@@ -5,8 +5,10 @@
 
 - Source Layer - слой источников данных
 - Storage Layer - слой хранения данных
-- Business Layer - слой для доступа к данным бизнес пользователей
-## Аналитика в Excel - "Sample - Superstore - Dashboard"  
+- Business Layer - слой для доступа к данным бизнес пользователей  
+
+## - Аналитика в Excel - PDF-файл - "Sample - Superstore_Dashboard.pdf"  
+## - Аналитика в Excel - "Sample - Superstore_Dashboard.xls"  
 
 - Total Sales
 - Total Profit
