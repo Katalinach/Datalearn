@@ -7,19 +7,30 @@
 - Storage Layer - слой хранения данных
 - Business Layer - слой для доступа к данным бизнес пользователей  
 
-## - Аналитика в Excel - PDF-файл - "Sample - Superstore_Dashboard.pdf"  
-## - Аналитика в Excel - "Sample - Superstore_Dashboard.xls"  
-
+## - Дашборд - PDF-файл - "Sample - Superstore_Dashboard.pdf"  
+## - Дашборд - "Sample - Superstore_Dashboard.xls"  
+# - Analysis by:  
 - Total Sales
 - Total Profit
-- Profit Ratio
-- Profit per Order
-- Sales per Customer
 - Avg. Discount
-- Monthly Sales by Segment ( табличка и график)
-- Monthly Sales by Product Category (табличка и график)  
-- Sales by Product Category over time (Продажи по категориям)
-- Customer Analysis
-- Sales and Profit by Customer
-- Customer Ranking
-- Sales per region  
+- Avg. Profit Ratio  
+- Avg. Profit / Order  
+- Avg. Profit / Customers  
+- Sales per month  
+- Profit per month  
+- Profit Ratio per month  
+- Sales and Profit per Regional manager  
+- Sales and Profit per Categories  
+- Sales and Profit per Regions  
+- Sales per state  
+- Sub-Category Analysis  
+
+# - Filters by:  
+- Years  
+- Months  
+- Ship Mode  
+- Segment  
+- Region  
+- Category  
+- Sub-Category  
+- Returned or not  
