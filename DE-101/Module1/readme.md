@@ -2,10 +2,7 @@
 
 ## - Исходный файл с данными - "Sample - Superstore.xls"    
 ## - Архитектура Аналитического Решения - "draw.io_architecture:  
-
-- Source Layer - слой источников данных
-- Storage Layer - слой хранения данных
-- Business Layer - слой для доступа к данным бизнес пользователей  
+Необходимо нарисовать  архитектуру аналитического решения с помощью draw.io.   
 
 ## - Дашборд в PDF - "Sample - Superstore_Dashboard.pdf"  
 ## - Дашборд в Excel - "Sample - Superstore_Dashboard.xls"  
