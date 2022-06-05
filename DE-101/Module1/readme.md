@@ -1,9 +1,7 @@
 # Домашнее задание для модуля 1: 
 
 ## - Исходный файл с данными - "Sample - Superstore.xls"    
-## - Архитектура Аналитического Решения - "draw.io_architecture:  
-Необходимо нарисовать  архитектуру аналитического решения с помощью draw.io.   
-
+## - Архитектура Аналитического Решения - "draw.io_architecture  
 ## - Дашборд в PDF - "Sample - Superstore_Dashboard.pdf"  
 ## - Дашборд в Excel - "Sample - Superstore_Dashboard.xls"  
 ### - Analysis by:  
